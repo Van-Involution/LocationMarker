@@ -15,7 +15,7 @@ PLUGIN_METADATA = {
 	'description': 'A server side waypoint manager',
 	'author': [
 		'Fallen_Breath',
-		'Van_Involution'
+		'Van_Nya'
 	],
 	'link': 'https://github.com/TISUnion/LocationMarker',
 	'dependencies': {
